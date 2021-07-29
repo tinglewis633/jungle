@@ -4,11 +4,11 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 ## Screenshots
 
-!["screenshot of home page"](https://github.com/tinglewis633/React-LHL/blob/master/public/images/Interview%20Schedular.png)
+!["screenshot of home page"](https://github.com/tinglewis633/jungle/blob/master/public/img/home.png)
 
-!["screenshot of admin page"](https://github.com/tinglewis633/React-LHL/blob/master/public/images/Delete.png)
+!["screenshot of admin page"](https://github.com/tinglewis633/jungle/blob/master/public/img/admin.png)
 
-!["screenshot of cart page"](https://github.com/tinglewis633/React-LHL/blob/master/public/images/EditInterview.png)
+!["screenshot of cart page"](https://github.com/tinglewis633/jungle/blob/master/public/img/cart.png)
 
 ## Additional Steps for Apple M1 Machines
 
